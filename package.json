@@ -17,7 +17,7 @@
     "@nuxt/test-utils": "^3.0.0-rc.13",
     "@nuxtjs/eslint-config-typescript": "^11.0.0",
     "@pinia/nuxt": "^0.4.3",
-    "@pinia/testing": "^0.0.14",
+    "@pinia/testing": "^0.1.0",
     "@testing-library/vue": "latest",
     "@types/node": "^18.11.9",
     "@types/serialize-javascript": "^5.0.2",
